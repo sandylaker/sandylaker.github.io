@@ -5,4 +5,4 @@ inline: true
 ---
 
 I joined the **SAP AI Research** as a short-term intern. The task is to build
-a unified framework for incorporating knowledge-graphs into language transformers.
+a unified framework for incorporating knowledge graphs into language transformers.
