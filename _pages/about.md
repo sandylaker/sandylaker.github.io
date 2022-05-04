@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Before I came to Germany, I studied Laboratory Medical Science at *Southern Medical University*, Guangzhou, China. 
-Then, I switched my major to engineering and studied Electrical Engineering (B.Sc.) at *TU Darmstadt* and 
-Biomedical Computing (M.Sc.) at *Technical University of Munich (TUM)*, respectively. 
+Then, I switched my major to engineering and studied Electrical Engineering (B.Sc.) at *TU Darmstadt*. After that, 
+I studied Biomedical Computing (M.Sc.) at *Technical University of Munich (TUM)*. 
 In June 2022, I will start my Ph.D. program in the [SLDS](https://www.slds.stat.uni-muenchen.de) at *LMU Munich*, 
 and my supervisor is [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/).
 My research interests are **self-supervised learning**, **explainable AI** as well as their applications in 
