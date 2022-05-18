@@ -5,5 +5,4 @@ inline: true
 ---
 I started to teach the course 
 [Applied Deep Learning with TensorFlow and PyTorch](https://moodle.lmu.de/course/view.php?id=20917)
-at LMU together with my colleagues. This course aims to provide students a solid understanding of deep learning frameworks
-through various exploratory projects and challenges.
+at LMU together with my colleagues.
