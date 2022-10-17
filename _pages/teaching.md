@@ -11,5 +11,10 @@ Summer Semester 2022:
 
 ---
 
+Winter Semester 2022/23:
+* [Supervised Learning](https://moodle.lmu.de/course/view.php?id=23850)
+
+---
+
 If you are interested in a guided research or master thesis about **Self-supervised Learning** or **Explainable AI**, please
 feel free to contact me.
