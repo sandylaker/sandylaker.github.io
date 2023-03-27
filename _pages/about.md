@@ -18,10 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Before I came to Germany, I studied Laboratory Medical Science at *Southern Medical University*, Guangzhou, China. 
-Then, I switched my major to engineering and studied Electrical Engineering (B.Sc.) at *TU Darmstadt*. After that, 
-I studied Biomedical Computing (M.Sc.) at *Technical University of Munich (TUM)*. 
-Now I am a Ph.D. student in the [SLDS](https://www.slds.stat.uni-muenchen.de) at *LMU Munich*,  supervised
-by [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/).
-My research interests are **self-supervised learning**, **explainable AI** as well as their applications in 
-medical domain. 
+My academic journey started in China, where I obtained a degree in Laboratory Medical 
+Science from *Southern Medical University* in Guangzhou, China. However, my passion for 
+engineering led me to pursue a B.Sc. in Electrical Engineering at *TU Darmstadt* in 
+Germany. Intrigued by the intersection of technology and medicine, I then completed a 
+M.Sc. in Biomedical Computing at *Technical University of Munich (TUM)*.
+
+Currently, I am a Ph.D. student at the [Statistical Learning and Data Science (SLDS)](https://www.slds.stat.uni-muenchen.de) 
+group at *LMU Munich*, under the supervision of [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/). 
+My research interests lie at the (i) explainability in deep learning and (ii) self-supervised 
+learning as well as their applications in clinical medicine. 

@@ -7,8 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-Summer Semester 2022:
-* [Applied Deep Learning with TensorFlow and PyTorch](https://moodle.lmu.de/course/view.php?id=20917)
+Summer Semester 2023:
+* [Advanced Machine Learning](https://moodle.lmu.de/course/view.php?id=26580)
 
 ---
 
@@ -17,5 +17,12 @@ Winter Semester 2022/23:
 
 ---
 
-If you are interested in a guided research or master thesis about **Self-supervised Learning** or **Explainable AI**, please
-feel free to contact me.
+Summer Semester 2022:
+* [Applied Deep Learning with TensorFlow and PyTorch](https://moodle.lmu.de/course/view.php?id=20917)
+
+---
+
+
+If you are interested in a guided research or master thesis about 
+**Explainablity in deep learning** or **Self-supervised learning**, please feel free to 
+contact me.
