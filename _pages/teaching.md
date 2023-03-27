@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses, guided research or thesis supervision.
 nav: true
+nav_order: 5
 ---
 
 Summer Semester 2022:
