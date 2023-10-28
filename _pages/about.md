@@ -6,7 +6,7 @@ subtitle: <a href="https://www.slds.stat.uni-muenchen.de">Affiliation</a>. <a hr
 
 profile:
   align: right
-  image: yawei_photo.jpg
+  image: yawei_photo.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institut für Statistik</p>
