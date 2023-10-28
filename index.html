@@ -30,7 +30,7 @@
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
@@ -179,6 +179,15 @@ learning as well as their applications in clinical medicine.</p>
               <table class="table table-sm table-borderless">
                
                 <tr>
+                  <th scope="row">Oct 28, 2023</th>
+                  <td>
+                    The paper <strong>AttributionLab: Faithfulness of Feature Attribution Under Controllable Environments</strong> was accepted by 
+<a href="https://xai-in-action.github.io" rel="external nofollow noopener" target="_blank">NeurIPS 2023 XAIA Workshop</a>. For those interested in 
+delving into the details of our work, we have uploaded an extended version (with 9-page main text) on <a href="https://arxiv.org/pdf/2310.06514.pdf" rel="external nofollow noopener" target="_blank">ArXiv</a>.
+ 
+                  </td>
+                </tr> 
+                <tr>
                   <th scope="row">Jun 22, 2022</th>
                   <td>
                     The paper <strong>Analyzing the Effects of Handling Data Imbalance on Learned Features from Medical Images by Looking Into the Models</strong> was accepted by the ICML 2022 Workshop: 
@@ -215,18 +224,18 @@ learning as well as their applications in clinical medicine.</p>
         <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
-        <div id="khakzar2022analyzing" class="col-sm-8">
+        <div id="zhang2023attributionlab" class="col-sm-8">
         <!-- Title -->
-        <div class="title">Analyzing the Effects of Handling Data Imbalance on Learned Features from Medical Images by Looking Into the Models</div>
+        <div class="title">AttributionLab: Faithfulness of Feature Attribution Under Controllable Environments</div>
         <!-- Author -->
         <div class="author">
         
 
-        <em>Yawei Li</em>, Ashkan Khakzar, Yang Zhang, and
+        Yang Zhang*, <em>Yawei Li*</em>, Hannah Brown, and
           <span class="more-authors" title="click to view 5 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '5 more authors' ? 'Mirac Sanisoglu, Seong Tae Kim, Mina Rezaei, Bernd Bischl, Nassir Navab' : '5 more authors';
+                var more_authors_text = element.text() == '5 more authors' ? 'Mina Rezaei, Bernd Bischl, Philip Torr, Ashkan Khakzar, Kenji Kawaguchi' : '5 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -241,7 +250,58 @@ learning as well as their applications in clinical medicine.</p>
         
         
         <div class="periodical">
-          <em>ICML Workshop on Interpretable Machine Learning in Healthcare</em>, 2022
+          <em>ArXiv</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="li2023ada" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A Dual-Perspective Approach to Evaluating Feature Attribution Methods</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Yawei Li*</em>, Yang Zhang*, Kenji Kawaguchi, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Ashkan Khakzar, Bernd Bischl, Mina Rezaei' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>ArXiv</em>, 2023
         </div>
         <div class="periodical">
           
