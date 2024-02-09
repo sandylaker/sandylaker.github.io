@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Institut für Statistik</p>
     <p>LMU München</p>
-    <p>Ludwigstraße 33, D-80539</p>
+    <p>Ludwigstraße 33, 80539</p>
     <p>München, Germany</p>
 
 news: true  # includes a list of news items
