@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My academic journey started in China, where I obtained a degree in Laboratory Medical 
+My academic journey started in China, where I obtained a bachelor in Laboratory Medical 
 Science from *Southern Medical University* in Guangzhou, China. However, my passion for 
 engineering led me to pursue a B.Sc. in Electrical Engineering at *TU Darmstadt* in 
 Germany. Intrigued by the intersection of technology and medicine, I then completed a 
