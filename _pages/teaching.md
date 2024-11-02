@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses, guided research or thesis supervision.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 Winter Semester 2024/25:

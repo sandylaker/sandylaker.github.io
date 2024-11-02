@@ -15,9 +15,8 @@ profile:
     <p>München, Germany</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 My academic journey started in China, where I obtained a bachelor in Laboratory Medical 

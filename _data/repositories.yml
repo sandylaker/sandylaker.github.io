@@ -1,6 +1,8 @@
 github_users:
   - sandylaker
 
+repo_description_lines_max: 2
+
 github_repos:
   - CAMP-eXplain-AI/InputIBA
   - pytorch/ignite
