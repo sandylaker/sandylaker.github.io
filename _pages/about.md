@@ -28,5 +28,10 @@ M.Sc. in Biomedical Computing at *Technical University of Munich (TUM)*.
 
 Currently, I am a Ph.D. student at the [Statistical Learning and Data Science (SLDS)](https://www.slds.stat.uni-muenchen.de) 
 group at *LMU Munich*, under the supervision of [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/). 
-My research interests lie at the (i) explainability in deep learning and (ii) self-supervised 
-learning as well as their applications in clinical medicine. 
+I am also a junior member of [Munich Center for Machine Learning (MCML)](https://mcml.ai).
+In 2024, I was also a visiting researcher at the Deep Learning Lab of 
+[Prof. Dr. Kenji Kawaguchi](https://www.comp.nus.edu.sg/cs/people/kenji/) at 
+the *National University of Singapore (NUS)*. 
+
+My research interests lie in trustworthy deep learning, with a particular 
+focus on **explainability** and **uncertainty quantification**.

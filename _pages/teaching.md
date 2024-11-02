@@ -7,6 +7,16 @@ nav: true
 nav_order: 5
 ---
 
+Winter Semester 2024/25:
+* Supervised Learning
+
+---
+
+Winter Semester 2023/24:
+* Supervised Learning
+
+---
+
 Summer Semester 2023:
 * [Advanced Machine Learning](https://moodle.lmu.de/course/view.php?id=26580)
 
