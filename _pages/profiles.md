@@ -1,4 +1,3 @@
-
 ---
 layout: profiles
 permalink: /people/

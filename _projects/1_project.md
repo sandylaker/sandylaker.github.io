@@ -2,7 +2,7 @@
 layout: page
 title: saliency-metrics
 description: An open-source framework for benchmarking explanation methods
-    for computer vision models.
+  for computer vision models.
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
