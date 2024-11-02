@@ -33,6 +33,6 @@ Summer Semester 2022:
 ---
 
 
-If you are interested in a guided research or master thesis about 
-**Explainablity in deep learning** or **Self-supervised learning**, please feel free to 
+If you are interested in a guided research or master thesis about
+**Explainablity in deep learning** or **Self-supervised learning**, please feel free to
 contact me.
