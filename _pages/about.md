@@ -13,9 +13,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the [Statistical Learning and Data Science (SLDS)](https://www.slds.stat.uni-muenchen.de)
-group at _LMU Munich_, supervised by [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/),
-and a junior member of the [Munich Center for Machine Learning (MCML)](https://mcml.ai).
+I received my Ph.D. from the [Statistical Learning and Data Science (SLDS)](https://www.slds.stat.uni-muenchen.de)
+group at _LMU Munich_, where I was supervised by [Prof. Dr. Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/)
+and was a junior member of the [Munich Center for Machine Learning (MCML)](https://mcml.ai).
 In 2024, I was a visiting researcher at the lab of
 [Prof. Dr. Kenji Kawaguchi](https://www.comp.nus.edu.sg/cs/people/kenji/) at
 the _National University of Singapore (NUS)_.
