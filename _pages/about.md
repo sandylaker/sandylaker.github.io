@@ -19,6 +19,8 @@ and was a junior member of the [Munich Center for Machine Learning (MCML)](https
 In 2024, I was a visiting researcher at the lab of
 [Prof. Dr. Kenji Kawaguchi](https://www.comp.nus.edu.sg/cs/people/kenji/) at
 the _National University of Singapore (NUS)_.
+In 2025, I did an Applied Scientist Internship at _Amazon_, where I worked on
+building more efficient reasoning LLMs.
 
 My research aims to make LLMs more reliable and efficient.
 I work on **calibration of LLMs**, so that a model's confidence reflects how likely it is
